@@ -5,7 +5,7 @@
 <!-- 💞️ I’m looking to collaborate on ... --->
 - 📫 How to reach me:
   - Gmail: emilyaube04@gmail.com
-  - Connect with me on <a ref = "https://www.linkedin.com/in/emily-aube-817583306/?trk=opento_sprofile_topcard">LinkedIn!</a>
+  - Connect with me on <a href = "https://www.linkedin.com/in/emily-aube-817583306/?trk=opento_sprofile_topcard">LinkedIn</a>!
 - 😄 Pronouns: she/her
 <!-- - ⚡ Fun fact: --->
 
